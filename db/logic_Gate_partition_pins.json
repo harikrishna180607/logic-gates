@@ -1,0 +1,45 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "and_gate",
+					"strict" : false
+				},
+				{
+					"name" : "or_gate",
+					"strict" : false
+				},
+				{
+					"name" : "not_gate",
+					"strict" : false
+				},
+				{
+					"name" : "nand_gate",
+					"strict" : false
+				},
+				{
+					"name" : "nor_gate",
+					"strict" : false
+				},
+				{
+					"name" : "xor_gate",
+					"strict" : false
+				},
+				{
+					"name" : "xnor_gate",
+					"strict" : false
+				},
+				{
+					"name" : "a",
+					"strict" : false
+				},
+				{
+					"name" : "b",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
